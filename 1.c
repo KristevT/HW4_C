@@ -13,4 +13,5 @@ int main () {
     } else {
         printf("%d\n", 28); // Февраль
     }
+    return 0;
 }
